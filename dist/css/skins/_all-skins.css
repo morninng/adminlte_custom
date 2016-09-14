@@ -1799,17 +1799,17 @@
   color: #fff;
 }
 .skin-custom .main-header .navbar .sidebar-toggle:hover {
-  background-color: #008d4c;
+  background-color: #FFC0CB;
 }
 @media (max-width: 767px) {
   .skin-custom .main-header .navbar .dropdown-menu li.divider {
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: #98FB98;
   }
   .skin-custom .main-header .navbar .dropdown-menu li a {
     color: #fff;
   }
   .skin-custom .main-header .navbar .dropdown-menu li a:hover {
-    background: #008d4c;
+    background: #87CEEB;
   }
 }
 .skin-custom .main-header .logo {

@@ -1,12 +1,12 @@
-*.DS_Store
+dist/
 *.log
 *.zip
 .idea
 .sass-cache/
-/nbproject/
 /nbproject/private/
 /node_modules/
+test_html/assets/
 ad.js
 TODO
 test.html
-/dist/
+
